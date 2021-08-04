@@ -21,3 +21,6 @@ gcc main.c -o output -lconfig
 ```
 g++ main.cpp -o output -lconfig++
 ```
+
+
+Por si acaso: https://programmersought.com/article/66953677865/
